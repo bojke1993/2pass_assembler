@@ -1,0 +1,2 @@
+   pocetak: load ebp, esp	;klfjkdlsjfds
+mov ebp, esp

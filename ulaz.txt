@@ -1,2 +1,2 @@
-   pocetak: load ebp, esp	;klfjkdlsjfds
-mov ebp, esp
+   pocetak: JZ [R0], a1	;klfjkdlsjfds
+JNZ ebp, esp

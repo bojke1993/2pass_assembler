@@ -1,2 +1,6 @@
-   pocetak: JZ [R0], a1	;klfjkdlsjfds
-JNZ ebp, esp
+.text
+pocetak: 
+	 LOAD R1, #3
+	 LOAD R2, #4
+	 ADD R1, R1, R2    ;sdjkfhsjdk
+kraj:	 STORE R1, [R5]	
